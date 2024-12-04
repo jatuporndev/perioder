@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002173485731",
+    "project_id": "perioder",
+    "storage_bucket": "perioder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002173485731:android:4d2b903e13706c60e0e516",
+        "android_client_info": {
+          "package_name": "com.jatuporndev.perioder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSK0djRO4UHudau3YMnCl4qWvu4_8PtyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
